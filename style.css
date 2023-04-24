@@ -8,3 +8,8 @@ body {
   font-weight: 900;
   text-align: center;
 }
+h1 {
+  color: red;
+  text-align: right;
+  word-spacing: 10px;
+}
